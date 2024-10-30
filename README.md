@@ -5,6 +5,11 @@ This is the capstone project for Full Stack Web Developer. The Casting Agency mo
 
 With front-end is very simple, most of the work are done in the back-end. I wrote Restful APIs, built a database using SQLAlchemey, secured the application using Auth0, tested the application using unit tests and via Postman, and finally deploy the application to Render.
 
+## Project Result
+Heroku: https://udacity-fswd-capstone.onrender.com/
+
+Localhost: http://127.0.0.1:5000/
+
 ## Tech Stack
 * **PostgreSQL** as our database of choice
 * **Python** and **Flask** as our server language and server framework
