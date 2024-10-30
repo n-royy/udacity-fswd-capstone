@@ -1,0 +1,34 @@
+html{
+    background: url("casting.jpg");
+    background-size: cover;
+    height: 100%;
+    background-origin: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.container {
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    top: 30%;
+    width: 100%;
+}
+
+h1 {
+    color: #e70404;
+    font-size: 65px;
+    opacity: 100%;
+}
+
+.login-button {
+    border: none;
+    outline: none;
+    font-size: 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #e70404;
+    color: white;
+}
